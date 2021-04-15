@@ -3,4 +3,7 @@ def str_up(s):
 
 if __name__=='__main__':
     print(str_up('andrei'))
-
+    print('yi')
+    
+    
+    
